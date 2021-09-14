@@ -1,0 +1,63 @@
+  <div class="user_info_wrapper">
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/active.png" alt="active" class="img-fluid">
+                              </div>
+                              <div>
+                                 <p>Online</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/offline.png" alt="active" class="img-fluid">
+                              </div>
+                              <div>
+                                 <p>Ofline</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/busy.png" alt="busy" class="img-fluid">
+                                 <span>-</span>
+                              </div>
+                              <div>
+                                 <p>Busy</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/berrightback.png" alt="beright" class="img-fluid">
+                                 <span>↩</span>
+                              </div>
+                              <div>
+                                 <p>Be Right Back</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/away.png" alt="away" class="img-fluid">
+                                 <span><</span>
+                              </div>
+                              <div>
+                                 <p>Away</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/metting.png" alt="meeting" class="img-fluid">
+                                 <span>o</span>
+                              </div>
+                              <div>
+                                 <p>In Meeting</p>
+                              </div>
+                           </div>
+                           <div class="d-flex flex-row">
+                              <div class="pr-3">
+                                 <img src="./resources/img/call.png" alt="call" class="img-fluid">
+                                 <span>✆</span>
+                              </div>
+                              <div>
+                                 <p>Mobile</p>
+                              </div>
+                           </div>
+                          </div>
